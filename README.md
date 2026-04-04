@@ -19,4 +19,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry pi" width="40" height="40" title="Raspberry PI"/>
     <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></p> -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=woulfdev&locale=en&layout=compact&theme=codeSTACKr&hide_border=true" alt="woulf" /></p>
+<p align="center"><img src="./profile/top-langs.svg" alt="woulf" /></p>
